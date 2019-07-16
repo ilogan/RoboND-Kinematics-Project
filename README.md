@@ -18,7 +18,7 @@
 [image12]: ./misc_images/RobotTop.jpg
 [image13]: ./misc_images/RobotSide.jpg
 [image14]: ./misc_images/R36Symbols.png
-[image15]: ./misc_images/thetas456.png
+[image15]: ./misc_images/Thetas456.png
 [image16]: ./misc_images/10of10.PNG
 [image17]: ./misc_images/IndivTransformResult.PNG
 [image18]: ./misc_images/HomogTransformResult1.PNG
