@@ -13,18 +13,18 @@
 [image7]: ./misc_images/IndivTransformCode.png
 [image8]: ./misc_images/HomogTransform.png
 [image9]: ./misc_images/HomogTransformCode.png
-[image10]: ./misc_images/Theta1.png
+[image10]: ./misc_images/Theta1.PNG
 [image11]: ./misc_images/Theta23.png
 [image12]: ./misc_images/RobotTop.jpg
 [image13]: ./misc_images/RobotSide.jpg
 [image14]: ./misc_images/R36Symbols.png
 [image15]: ./misc_images/thetas456.png
-[image16]: ./misc_images/10of10.png
-[image17]: ./misc_images/IndivTransformResult.png
-[image18]: ./misc_images/HomogTransformResult1.png
-[image19]: ./misc_images/HomogTransformResult2.png
-[image20]: ./misc_images/HomogTransformResult3.png
-[image21]: ./misc_images/HomogTransformResult4.png
+[image16]: ./misc_images/10of10.PNG
+[image17]: ./misc_images/IndivTransformResult.PNG
+[image18]: ./misc_images/HomogTransformResult1.PNG
+[image19]: ./misc_images/HomogTransformResult2.PNG
+[image20]: ./misc_images/HomogTransformResult3.PNG
+[image21]: ./misc_images/HomogTransformResult4.PNG
 
 ## 
 ### Kinematic Analysis
@@ -112,18 +112,18 @@ And this resulted in the final homogenous transform. It is quite large, so I bro
 
 ###### Column 1
 
-[![alt text](./misc_images/HomogTransformResult1.png)](./misc_images/HomogTransformResult1.png) 
+[![alt text](./misc_images/HomogTransformResult1.PNG)](./misc_images/HomogTransformResult1.PNG) 
 
 ###### Column 2
 
-[![alt text](./misc_images/HomogTransformResult2.png)](./misc_images/HomogTransformResult2.png) 
+[![alt text](./misc_images/HomogTransformResult2.PNG)](./misc_images/HomogTransformResult2.PNG) 
 
 ###### Column 3
-[![alt text](./misc_images/HomogTransformResult3.png)](./misc_images/HomogTransformResult3.png) 
+[![alt text](./misc_images/HomogTransformResult3.PNG)](./misc_images/HomogTransformResult3.PNG) 
 
 
 ###### Column 4
-[![alt text](./misc_images/HomogTransformResult4.png)](./misc_images/HomogTransformResult4.png) 
+[![alt text](./misc_images/HomogTransformResult4.PNG)](./misc_images/HomogTransformResult4.PNG) 
 
 
 
